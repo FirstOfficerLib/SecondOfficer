@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondOfficer", "SecondOfficer\SecondOfficer.csproj", "{8E1F0572-7AB5-4148-A56F-33EF6CCD142D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondOfficer.Tests", "SecondOfficer.Tests\SecondOfficer.Tests.csproj", "{6030A5BE-F08F-49CA-8C6A-23F8F79F1F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1F0572-7AB5-4148-A56F-33EF6CCD142D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1F0572-7AB5-4148-A56F-33EF6CCD142D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1F0572-7AB5-4148-A56F-33EF6CCD142D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1F0572-7AB5-4148-A56F-33EF6CCD142D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6030A5BE-F08F-49CA-8C6A-23F8F79F1F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6030A5BE-F08F-49CA-8C6A-23F8F79F1F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6030A5BE-F08F-49CA-8C6A-23F8F79F1F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6030A5BE-F08F-49CA-8C6A-23F8F79F1F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979D75EA-AA27-489A-A66A-BECBB644C48D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Generator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\SecondOfficer.Tests\\SecondOfficer.Tests.csproj"
+    }
+  }
+}
